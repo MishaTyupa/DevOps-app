@@ -1,1 +1,1 @@
-DevOps Sample App
+DevOps sample app
